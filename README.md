@@ -408,7 +408,7 @@ Moving forward, we have:
 | [mobsfscan_report.json](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Job%20Artifacts/mobsfscan_report.json) | Security Report | Security analysis results |
 | [Job History](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Job%20History.png) | Pipeline Log | Build history records |
 | [Resource Usage](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Resource%20Usage.png) | Performance | Resource utilization data |
-| [Running Time](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Running%20time.png) | Performance | Pipeline execution metrics |
+| [Running Time](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Resource%20time.png) | Performance | Pipeline execution metrics |
 
 ### 4. System Design
 
