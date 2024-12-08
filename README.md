@@ -4,6 +4,7 @@
 **Course**: COMP-8117 Applied Software Engineering  
 **Instructor**: Dr. Aznam YACOUB  
 **Date**: December 8, 2024
+**Source Code**: [GitHub](https://github.com/rajpatel8/Cheerly)
 
 ## Team Members
 - **Rajkumar Patel** - Team Lead
