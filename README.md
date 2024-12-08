@@ -372,70 +372,57 @@ Moving forward, we have:
 
 | Document | Status | Last Updated | Description |
 |----------|---------|--------------|-------------|
-| Software Requirements Specification (SRS) | ✅ Complete | Dec 8, 2024 | Comprehensive requirements documentation |
-| Software Design Specification (SDS) | ✅ Complete | Dec 8, 2024 | Detailed system design and architecture |
-| README.md | ✅ Complete | Dec 8, 2024 | Project overview and setup instructions |
+| [Software Requirements Specification (SRS)](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/srs-documet.md) | ✅ Complete | Dec 8, 2024 | Comprehensive requirements documentation |
+| [Software Design Specification (SDS)](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/sds-document.md) | ✅ Complete | Dec 8, 2024 | Detailed system design and architecture |
+| [Final-Report.md](https://github.com/rajpatel8/ideal-fortnight/blob/main/README.md) | ✅ Complete | Dec 8, 2024 | Project overview and setup instructions |
 
 ### 2. Application Screenshots
 
 | Screenshot | Purpose | Status |
 |------------|---------|---------|
-| App Logo | Brand Identity | ✅ Complete |
-| App Opening | Launch Screen | ✅ Complete |
-| User Preference | Setup Flow | ✅ Complete |
-| Selected Preference | User Choices | ✅ Complete |
-| Select Current Mood | Mood Selection UI | ✅ Complete |
-| Mood by Prompt | Alternative Input | ✅ Complete |
-| Happy Mood Song Recommendation | Music Feature | ✅ Complete |
-| Happy Mood Video Recommendation | Video Feature | ✅ Complete |
-| Excited Mood Song Recommendation | Music Feature | ✅ Complete |
-| Excited Mood Videos Recommendation | Video Feature | ✅ Complete |
+| [App Logo](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/1%20-%20App%20Logo.png) | Brand Identity | ✅ Complete |
+| [App Opening](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/2%20-%20App%20Opening%20.png) | Launch Screen | ✅ Complete |
+| [User Preference](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/3%20-%20User%20preference.png) | Setup Flow | ✅ Complete |
+| [Selected Preference](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/4%20-%20Selcected%20Preference.png) | User Choices | ✅ Complete |
+| [Select Current Mood](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/5.A%20-%20Select%20Current%20Mood.png) | Mood Selection UI | ✅ Complete |
+| [Mood by Prompt](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/5.A%20-%20Select%20Current%20Mood.png) | Alternative Input | ✅ Complete |
+| [Happy Mood Song Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/6.A%20-%20Happy%20Mood%20Song%20Reccomendation.png) | Music Feature | ✅ Complete |
+| [Happy Mood Video Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/6.B%20-%20Happy%20Mood%20Video%20Reccomendation.png) | Video Feature | ✅ Complete |
+| [Excited Mood Song Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/7.A%20-%20Excited%20Mood%20Song%20Reccomendation.png.png) | Music Feature | ✅ Complete |
+| [Excited Mood Videos Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/7.B%20-%20Excited%20Mood%20Videos%20Reccomendation.png) | Video Feature | ✅ Complete |
+
 
 ### 3. Technical Analysis
 
 ### 3.1 Crash Analytics
 | Artifact | Type | Description |
 |----------|------|-------------|
-| Crash Stats | Analysis | Statistical crash data |
-| Crash Reports | Documentation | Detailed crash information |
-| First Crash Report Trace | Technical Log | Initial crash analysis |
+| [Crash Stats](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Crash%20Anlytics%20/Crash%20Stats.png) | Analysis | Statistical crash data |
+| [Crash Reports](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Crash%20Anlytics%20/Crash%20reports.png) | Documentation | Detailed crash information |
+| [First Crash Report Trace](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Crash%20Anlytics%20/First%20Crash%20report%20trace.txt) | Technical Log | Initial crash analysis |
 
 ### 3.2 CI/CD Pipeline (APK Job)
 | Artifact | Type | Details |
 |----------|------|----------|
-| app-release-unsigned.apk | Build Output | Application package |
-| mobsfscan_report.json | Security Report | Security analysis results |
-| Job History | Pipeline Log | Build history records |
-| Resource Usage | Performance | Resource utilization data |
-| Running Time | Performance | Pipeline execution metrics |
+| [app-release-unsigned.apk](https://github.com/rajpatel8/Cheerly-Public/releases/tag/v1.0) | Build Output | Application package |
+| [mobsfscan_report.json](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Job%20Artifacts/mobsfscan_report.json) | Security Report | Security analysis results |
+| [Job History](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Job%20History.png) | Pipeline Log | Build history records |
+| [Resource Usage](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Resource%20Usage.png) | Performance | Resource utilization data |
+| [Running Time](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/Github%20CI%3ACD%20Pipleine%20(APK%20job)/Running%20time.png) | Performance | Pipeline execution metrics |
 
 ### 4. System Design
 
 ### 4.1 UML & Use Case Diagrams
 | Diagram | Type | Purpose |
 |---------|------|----------|
-| Core Sequence Diagram | Technical Design | Main system flow |
-| Mood Tracking Sequence | Technical Design | Mood feature workflow |
-| Premium Subscription Sequence | Technical Design | Subscription process |
-| Use Case Diagram | System Design | User interaction scenarios |
-| User Interaction Flow | User Experience | Navigation pathways |
+| [Core Sequence Diagram](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/UML%20%26%20Usercase%20Diagram/Cheerly%20-%20Core%20Sequence%20Diagram.png) | Technical Design | Main system flow |
+| [Mood Tracking Sequence](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/UML%20%26%20Usercase%20Diagram/Cheerly%20-%20Mood%20Tracking%20Sequence.png) | Technical Design | Mood feature workflow |
+| [Premium Subscription Sequence](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/UML%20%26%20Usercase%20Diagram/Cheerly%20-%20Premium%20Subscription%20Sequence.png) | Technical Design | Subscription process |
+| [Use Case Diagram](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/UML%20%26%20Usercase%20Diagram/Cheerly%20-%20Use%20Case%20Diagram.png) | System Design | User interaction scenarios |
+| [User Interaction Flow](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/UML%20%26%20Usercase%20Diagram/Cheerly%20-%20User%20Interaction%20Flow.png) | User Experience | Navigation pathways |
 
-### 5. Directory Structure
 
-```plaintext
-.
-├── Document Inventory
-│   ├── App Working Screenshots
-│   ├── Crash Analytics
-│   ├── Github CI/CD Pipeline (APK job)
-│   │   └── Job Artifacts
-│   ├── UML & Usercase Diagram
-│   ├── sds-document.md
-│   └── srs-document.md
-└── README.md
-```
-
-### 6. Artifact Metrics
+### 5. Artifact Metrics
 
 | Category | Count | Status |
 |----------|--------|---------|
