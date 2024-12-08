@@ -385,11 +385,11 @@ Moving forward, we have:
 | [User Preference](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/3%20-%20User%20preference.png) | Setup Flow | ✅ Complete |
 | [Selected Preference](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/4%20-%20Selcected%20Preference.png) | User Choices | ✅ Complete |
 | [Select Current Mood](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/5.A%20-%20Select%20Current%20Mood.png) | Mood Selection UI | ✅ Complete |
-| [Mood by Prompt](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/5.A%20-%20Select%20Current%20Mood.png) | Alternative Input | ✅ Complete |
+| [Mood by Prompt](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/5.B%20-%20Mood%20by%20Prompt%20.png) | Alternative Input | ✅ Complete |
 | [Happy Mood Song Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/6.A%20-%20Happy%20Mood%20Song%20Reccomendation.png) | Music Feature | ✅ Complete |
 | [Happy Mood Video Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/6.B%20-%20Happy%20Mood%20Video%20Reccomendation.png) | Video Feature | ✅ Complete |
-| [Excited Mood Song Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/7.A%20-%20Excited%20Mood%20Song%20Reccomendation.png.png) | Music Feature | ✅ Complete |
-| [Excited Mood Videos Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/7.B%20-%20Excited%20Mood%20Videos%20Reccomendation.png) | Video Feature | ✅ Complete |
+| [Happy Mood Podcast Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/6.C%20-%20Happy%20Mood%20Podcasts%20Reccomendation.png) | Podcast Feature | ✅ Complete |
+| [Haappy Mood Activity Recommendation](https://github.com/rajpatel8/ideal-fortnight/blob/main/Document%20Inventory/App%20Working%20Screenshots/6.C%20-%20Happy%20Mood%20Activity%20Reccomendation.png) | Activity Feature | ✅ Complete |
 
 
 ### 3. Technical Analysis
